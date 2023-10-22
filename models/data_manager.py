@@ -1,6 +1,5 @@
 import os
 
-from .face_detector import FaceDetector
 import interfaces
 
 
